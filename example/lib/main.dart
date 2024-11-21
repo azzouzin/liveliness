@@ -1,3 +1,4 @@
+import 'package:flutter/material.dart';
 import 'package:m7_livelyness_detection_example/index.dart';
 
 void main() {
@@ -19,7 +20,7 @@ class _MyAppState extends State<MyApp> {
 
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(
+    return MaterialApp(
       home: M7ExpampleScreen(),
     );
   }

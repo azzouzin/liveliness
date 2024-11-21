@@ -1,4 +1,4 @@
-import 'package:m7_livelyness_detection_example/index.dart';
+import 'package:m7_livelyness_detection/index.dart';
 
 class TestScreen extends StatefulWidget {
   final M7DetectionConfig config;

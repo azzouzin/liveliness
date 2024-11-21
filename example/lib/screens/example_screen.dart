@@ -1,7 +1,6 @@
 import 'package:collection/collection.dart';
 import 'package:flutter/cupertino.dart';
-import 'package:m7_livelyness_detection_example/index.dart';
-
+import 'package:m7_livelyness_detection/index.dart';
 class M7ExpampleScreen extends StatefulWidget {
   const M7ExpampleScreen({super.key});
 
